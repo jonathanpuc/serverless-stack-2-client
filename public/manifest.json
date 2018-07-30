@@ -12,7 +12,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "./",
+  "start_url": "https://vibrant-pasteur-f3d0eb.netlify.com/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
